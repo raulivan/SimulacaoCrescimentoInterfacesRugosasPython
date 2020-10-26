@@ -10,5 +10,3 @@ Cada modelo apresenta:
 - Gráfico da interface gerada
 - Gráfico da rugosidade até o regime de saturação.
 
-Parâmetros: 
-- Interfa
